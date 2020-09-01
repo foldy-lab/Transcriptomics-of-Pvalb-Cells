@@ -1,0 +1,60 @@
+CellType	Category	Continent
+Lamp5 Fam19a1 Pax6	Lamp5	5
+Lamp5 Fam19a1 Tmem182	Lamp5	5
+Lamp5 Krt73	Lamp5	5
+Lamp5 Lhx6	Lamp5	5
+Lamp5 Lsp1	Lamp5	5
+Lamp5 Ntn1 Npy2r	Vip	6
+Lamp5 Plch2 Dock5	Vip	6
+Pvalb Akr1c18 Ntf3	Pvalb	1
+Pvalb Calb1 Sst	Pvalb	1
+Pvalb Gabrg1	Pvalb	1
+Pvalb Gpr149 Islr	Pvalb	1
+Pvalb Reln Itm2a	Pvalb	1
+Pvalb Reln Tac1	Pvalb	1
+Pvalb Sema3e Kank4	Pvalb	1
+Pvalb Th Sst	Pvalb	1
+Pvalb Tpbg	Pvalb	1
+Pvalb Vipr2	Pvalb	1
+Serpinf1 Aqp5 Vip	Vip	6
+Serpinf1 Clrn1	Vip	6
+Sncg Gpr50	Vip	6
+Sncg Slc17a8	Vip	6
+Sncg Vip Itih5	Vip	6
+Sncg Vip Nptx2	Vip	6
+Sst Calb2 Necab1	Sst Main	3
+Sst Calb2 Pdlim5	Sst Main	3
+Sst Chodl	Sst Chodl	2
+Sst Chrna2 Glra3	Sst Main	3
+Sst Chrna2 Ptgdr	Sst Main	3
+Sst Crh 4930553C11Rik 	Sst Main	3
+Sst Crhr2 Efemp1	Sst Main	3
+Sst Esm1	Sst Main	3
+Sst Hpse Cbln4	Sst Main	3
+Sst Hpse Sema3c	Sst Main	3
+Sst Mme Fam114a1	Sst Main	3
+Sst Myh8 Etv1 	Sst Main	3
+Sst Myh8 Fibin	Sst Main	3
+Sst Nr2f2 Necab1	Sst Main	3
+Sst Nts	Sst Main	3
+Sst Rxfp1 Eya1	Sst Sub	4
+Sst Rxfp1 Prdm8	Sst Sub	4
+Sst Tac1 Htr1d	Sst Main	3
+Sst Tac1 Tacr3	Sst Main	3
+Sst Tac2 Myh4	Sst Sub	4
+Sst Tac2 Tacstd2	Sst Sub	4
+Vip Arhgap36 Hmcn1	Vip	6
+Vip Chat Htr1f	Vip	6
+Vip Col15a1 Pde1a	Vip	6
+Vip Crispld2 Htr2c	Vip	6
+Vip Crispld2 Kcne4	Vip	6
+Vip Gpc3 Slc18a3	Vip	6
+Vip Igfbp4 Mab21l1	Vip	6
+Vip Igfbp6 Car10	Vip	6
+Vip Lect1 Oxtr	Vip	6
+Vip Lmo1 Fam159b	Vip	6
+Vip Lmo1 Myl1	Vip	6
+Vip Ptprt Pkp2	Vip	6
+Vip Pygm C1ql1	Vip	6
+Vip Rspo1 Itga4	Vip	6
+Vip Rspo4 Rxfp1 Chat	Vip	6

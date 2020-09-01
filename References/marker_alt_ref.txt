@@ -1,0 +1,8 @@
+CellType	Edge	Face	Marker
+AAC	#000000	#d7191c	
+vBC	#000000	#fdae61	
+hBC	#000000	#ffffbf	
+vBiC	#000000	#abd9e9	
+hBiC	#000000	#2c7bb6	
+Ephys1		0	D
+Ephys2			o

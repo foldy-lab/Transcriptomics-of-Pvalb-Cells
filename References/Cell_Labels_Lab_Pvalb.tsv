@@ -1,0 +1,129 @@
+Cell	CellType	BodyPosition	Age	Gender	Hemisphere
+O24	hBIC	Stratum Oriens	37	Female	Left
+O26	UC	Stratum Oriens	37	Female	Right
+O31	vBIC	Stratum Oriens	37	Female	Left
+O32	vBIC	Stratum Oriens	38	Female	Right
+O34	UC	Stratum Oriens	38	Female	Right
+O35	UC	Stratum Oriens	38	Female	Left
+O36	vBC	Stratum Pyramidale	38	Female	Left
+O39	vBC	Stratum Pyramidale	24	Female	Left
+O41	vAAC	Stratum Pyramidale	24	Female	Right
+O43	UC	Stratum Oriens	29	Female	Right
+O44	vBIC	Stratum Oriens	29	Female	Left
+O46	vBC	Stratum Oriens	29	Female	Right
+O47	vBC	Stratum Oriens	30	Male	Left
+O48	vBC	Stratum Pyramidale	30	Male	Right
+O49	vBC	Stratum Pyramidale	30	Male	Left
+O52	vBC	Stratum Pyramidale	31	Female	Right
+O54	hBC	Stratum Oriens	31	Female	Left
+O55	vBC	Stratum Pyramidale	31	Female	Left
+O56	vBIC	Stratum Oriens	31	Female	Right
+O58	hBC	Stratum Oriens	31	Female	Left
+O59	vBC	Stratum Pyramidale	32	Male	Right
+O60	vBC	Stratum Pyramidale	32	Male	Right
+O61	hBIC	Stratum Oriens	32	Male	Left
+O62	vBC	Stratum Pyramidale	37	Male	Right
+O65	hBC	Stratum Oriens	37	Male	Right
+O66	hBIC	Stratum Oriens	46	Male	Left
+O71	hBIC	Stratum Oriens	47	Female	Right
+O73	vBC	Stratum Pyramidale	47	Female	Right
+O76	vBIC	Stratum Oriens	47	Female	Right
+O78	hBIC	Stratum Oriens	58	Female	Right
+O80	vBC	Stratum Radiatum	58	Female	Right
+O87	vBIC	Stratum Pyramidale	64	Male	Right
+O89	vAAC	Stratum Pyramidale	68	Male	Left
+O90	vBC	Stratum Pyramidale	68	Male	Left
+O100	vBC	Stratum Oriens	77	Female	Left
+O102	hBC	Stratum Oriens	29	Male	Right
+O103	vBC	Stratum Pyramidale	29	Male	Left
+O104	hBIC	Stratum Oriens	29	Male	Right
+O106	hBC	Stratum Oriens	29	Male	Left
+O109	vBC	Stratum Pyramidale	34	Male	Left
+O111	vBC	Stratum Pyramidale	34	Male	Left
+O113	vBC	Stratum Pyramidale	36	Male	Left
+O114	vBC	Stratum Pyramidale	36	Male	Left
+O117	vBC	Stratum Pyramidale	36	Male	Left
+O125	hBIC	Stratum Oriens	46	Male	Right
+O127	vAAC	Stratum Pyramidale	46	Male	Right
+O128	vBC	Stratum Pyramidale	46	Male	Left
+O129	vBC	Stratum Pyramidale	46	Male	Right
+O130	vBC	Stratum Pyramidale	47	Male	Left
+O131	vBC	Stratum Pyramidale	47	Male	Right
+O132	vAAC	Stratum Pyramidale	48	Male	Right
+O134	vBIC	Stratum Oriens	48	Male	Right
+O135	vBC	Stratum Pyramidale	26	Female	Left
+O137	vBC	Stratum Oriens	26	Female	Left
+O138	vBC	Stratum Pyramidale	26	Female	Left
+O139	hBC	Stratum Oriens	31	Female	Right
+O141	vBIC	Stratum Oriens	31	Female	Left
+O145	vBC	Stratum Oriens	24	Male	Left
+O147	vAAC	Stratum Pyramidale	30	Male	Left
+O149	vAAC	Stratum Pyramidale	30	Male	Left
+O151	hBIC	Stratum Oriens	30	Male	Right
+O159	hBIC	Stratum Oriens	22	Female	Left
+O160	vBC	Stratum Pyramidale	22	Female	Right
+O162	hBC	Stratum Oriens	22	Female	Right
+O164	vAAC	Stratum Pyramidale	23	Female	Right
+O165	vBIC	Stratum Oriens	23	Female	Right
+O171	vBC	Stratum Oriens	23	Female	Left
+O204	vBC	Stratum Pyramidale	11	Too Young	Right
+O205	hBC	Stratum Oriens	12	Too Young	Right
+O210	vBC	Stratum Pyramidale	15	Too Young	Left
+O211	vBC	Stratum Pyramidale	15	Too Young	Right
+O216	vBC	Stratum Pyramidale	16	Too Young	Right
+O218	vBC	Stratum Pyramidale	16	Too Young	Left
+O220	hBC	Stratum Oriens	17	Too Young	Right
+O221	hBC	Stratum Oriens	17	Too Young	Left
+O222	vBC	Stratum Pyramidale	17	Too Young	Right
+O240	vBC	Stratum Pyramidale	10	Too Young	Left
+O242	vBC	Stratum Pyramidale	10	Too Young	Left
+O243	vBC	Stratum Pyramidale	10	Too Young	Right
+O246	vBC	Stratum Pyramidale	11	Too Young	Right
+O248	hBC	Stratum Oriens	11	Too Young	Left
+O250	vBC	Stratum Pyramidale	11	Too Young	Right
+O251	vBC	Stratum Pyramidale	11	Too Young	Left
+O255	vBC	Stratum Pyramidale	20	Too Young	Left
+O282	vBC	Stratum Pyramidale	20	Too Young	Right
+O284	vBC	Stratum Pyramidale	18	Too Young	Left
+O285	vBC	Stratum Pyramidale	18	Too Young	Left
+O286	vBC	Stratum Pyramidale	18	Too Young	Left
+O287	vBC	Stratum Pyramidale	18	Too Young	Left
+O290	vBC	Stratum Pyramidale	19	Too Young	Left
+O292	vBC	Stratum Pyramidale	19	Too Young	Left
+O296	vBC	Stratum Pyramidale	19	Too Young	Left
+O297	vBC	Stratum Pyramidale	19	Too Young	Right
+O299	vBC	Stratum Pyramidale	19	Too Young	Right
+O300	vBC	Stratum Pyramidale	19	Too Young	Right
+O301	vBC	Stratum Pyramidale	19	Too Young	Left
+O303	vBC	Stratum Pyramidale	20	Too Young	Left
+O304	vBC	Stratum Pyramidale	20	Too Young	Right
+O305	vBC	Stratum Pyramidale	20	Too Young	Left
+O422	UC	Stratum Oriens	24	Male	Left
+O423	UC	Stratum Oriens	24	Male	Left
+O424	hBC	Stratum Oriens	24	Male	Left
+O425	hBIC	Stratum Oriens	24	Male	Left
+O426	hBC	Stratum Oriens	24	Male	Right
+O427	hBIC	Stratum Oriens	24	Male	Right
+O428	UC	Stratum Oriens	24	Male	Right
+O429	hBIC	Stratum Oriens	24	Male	Left
+O430	vBC	Stratum Oriens	24	Male	Left
+O431	UC	Stratum Oriens	24	Male	Left
+O433	hBIC	Stratum Oriens	25	Male	Left
+O434	hBC	Stratum Oriens	25	Male	Left
+O435	vBC	Stratum Oriens	25	Male	Left
+O436	UC	Stratum Oriens	25	Male	Right
+O439	hBC	Stratum Oriens	25	Male	Right
+O440	hBC	Stratum Oriens	26	Female	Left
+O441	UC	Stratum Oriens	26	Female	Right
+O442	Cortical	Stratum Oriens	26	Female	
+O443	Cortical	Stratum Oriens	26	Female	
+O444	Cortical	Stratum Oriens	26	Female	
+O445	Cortical	Stratum Oriens	26	Female	
+O447	Cortical	Stratum Oriens	26	Female	
+O448	Cortical	Stratum Oriens	26	Female	
+O449	UC	Stratum Oriens	26	Female	
+O450	hBIC	Stratum Oriens	27	Female	Right
+O451	UC	Stratum Oriens	27	Female	Right
+O452	UC	Stratum Oriens	27	Female	Right
+O453	UC	Stratum Oriens	27	Female	Right
+O454	vBC	Stratum Oriens	27	Female	Right

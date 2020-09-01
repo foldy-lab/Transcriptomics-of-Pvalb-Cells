@@ -1,0 +1,163 @@
+CellType	Edge	Face	Marker
+vAAC	#000000	#D1443E	o
+vBC	#000000	#A4D5EC	o
+hBC	#000000	#008FCB	o
+vBIC	#000000	#F8B87D	o
+hBIC	#000000	#F5F4CB	o
+Cortical PV	#FF33FF	#FFFF00	h
+UC	#FF33FF	#00FFFF	h
+Pvalb.C1ql1	#00A4FF	None	v
+Cck.Cxcl14	#578000	#578000	+
+Sst.Npy	#B800EC	None	*
+BIC	#000000	#E5F5F9	o
+BC	#000000	#2CA25F	o
+AAC	#000000	#D1443E	o
+Vertical	#000000	#EF8A62	o
+Horizontal	#000000	#999999	o
+SO	#000000	#000000	o
+SP	#000000	#FFFFFF	o
+>P21	#000000	#9E9AC8	o
+PV non-BC >P25	#000000	#CBC9E2	o
+<P21	#000000	#F2F0F7	o
+PV	#000000	#FF0000	o
+SST-OLM	#000000	#99d8c9	s
+Htr3a-OLM	#00FF00	#00FF00	s
+Ephys1	#000000	#00FF00	H
+Ephys2	#000000	#FFC0CB	H
+Ephys3	#000000	#0000FF	H
+Ephys4	#000000	#FF0000	H
+Ephys5	#000000	#CBFFC0	H
+Continent 2	#000000	#000000	P
+Continent 3	#000000	#FFFFFF	P
+Pvalb	#000000	#DA8687	P
+Pthlh.2900055J20Rik.Pcp4	#000000	#CCC8E1	o
+Pthlh.2900055J20Rik.Npy	#000000	#9F99C8	o
+Pthlh.Snca	#000000	#7F66AD	o
+Synpr	#000000	#FFFFFF	o
+21-30	#000000	#FFFFFF	o
+31-40	#000000	#7F7F7F	o
+>40	#000000	#000000	o
+Serpine2	#000000	#FFFFFF	s
+Male	#6666FF	#6666FF	o
+Female	#FF6666	#FF6666	o
+Too Young	#FF66FF	#FF66FF	o
+Left	#FF00FF	#00FF00	o
+Right	#000000	#FFFFFF	o
+Sst.Nos1	#BE00D7	None	o
+Sst.Npy.Cort	#B800EC	None	*
+Sst.Npy.Zbtb20	#AC00FF	None	>
+Sst.Npy.Serpine2	#8309FF	None	v
+Sst.Npy.Mgat4c	#7900FF	None	<
+Sst.Pnoc.Calb1.Igfbp5	#5F00FF	None	^
+Sst.Pnoc.Calb1.Pvalb	#4500FF	None	d
+Sst.Pnoc.Pvalb	#2B00FF	None	s
+Sst.Erbb4.Rgs10	#1100FF	None	x
+Sst.Erbb4.Crh	#0008FF	None	p
+Sst.Erbb4.Th	#0022FF	None	p
+Pvalb.Tac1.Nr4a2	#003CFF	#003CFF	+
+Pvalb.Tac1.Sst	#0056FF	None	o
+Pvalb.Tac1.Syt2	#0070FF	None	*
+Pvalb.Tac1.Akr1c18	#008AFF	None	>
+Pvalb.C1ql1.Pvalb	#00A4FF	None	v
+Pvalb.C1ql1.Cpne5	#00B5F3	None	<
+Pvalb.C1ql1.Npy	#00BCDE	None	^
+Cacna2d1.Lhx6.Reln	#00C1CC	None	d
+Cacna2d1.Lhx6.Vwa5a	#00C4BA	None	s
+Cacna2d1.Ndnf.Npy	#00C4A6	None	x
+Cacna2d1.Ndnf.Rgs10	#00C492	None	p
+Cacna2d1.Ndnf.Cxcl14	#00C47E	None	p
+Calb2.Cryab	#00C46A	#00C46A	+
+Sst.Cryab	#00C456	None	o
+Ntng1.Synpr	#00C442	None	*
+Ntng1.Rgs10	#00C42E	None	>
+Ntng1.Chrm2	#00C41A	None	v
+Cck.Sema5a	#00C406	None	<
+Cck.Lmo1.Npy	#0CBA00	None	^
+Cck.Calca	#1DAD00	None	d
+Cck.Lmo1.Vip.Fam19a2	#2CA200	None	s
+Cck.Lmo1.Vip.Crh	#389800	None	x
+Cck.Lmo1.Vip.Tac2	#448F00	None	p
+Cck.Lypd1	#4E8700	None	p
+Cck.Cxcl14.Calb1.Tnfaip8l3	#578000	#578000	+
+Cck.Cxcl14.Calb1.Igfbp5	#5F7A00	None	o
+Cck.Cxcl14.Slc17a8	#677400	None	*
+Cck.Cxcl14.Calb1.Kctd12	#6D6F00	None	>
+Cck.Cxcl14.Calb1.Tac2	#736900	None	v
+Cck.Cxcl14.Vip	#786200	None	<
+Vip.Crh.Pcp4	#7E5A00	None	^
+Vip.Crh.C1ql1	#855100	None	d
+Calb2.Vip.Gpd1	#8D4700	None	s
+Calb2.Vip.Igfbp4	#953C00	None	x
+Calb2.Vip.Nos1	#9E3000	None	p
+Calb2.Cntnap5a.Rspo3	#A92200	None	p
+Calb2.Cntnap5a.Vip	#B51200	#B51200	+
+Calb2.Cntnap5a.Igfbp6	#C40000	None	o
+Group1	#FF0000	#FF0000	o
+Group2	#00FF00	#00FF00	o
+Group3	#0000FF	#0000FF	o
+Group4	#00FFFF	#00FFFF	o
+CA1 fast-spiking interneuron	#000000	#FF0000	o
+CA1 pyramidal cell	#000000	#0000FF	o
+CA1 regular-spiking interneuron	#000000	#6B8083	o
+Subiculum burst-spiking pyramidal cell	#000000	#4EB1E9	o
+Subiculum regular-spiking pyramidal cell	#000000	#87E2B8	o
+hippocampus	#000000	#F41F19	o
+Lamp5 Fam19a1 Pax6	#000000	#8000FF	o
+Lamp5 Fam19a1 Tmem182	#000000	#780DFF	o
+Lamp5 Krt73	#000000	#7019FF	o
+Lamp5 Lhx6	#000000	#6629FE	o
+Lamp5 Lsp1	#000000	#5E35FE	o
+Lamp5 Ntn1 Npy2r	#000000	#5444FD	o
+Lamp5 Plch2 Dock5	#000000	#4C50FC	o
+Pvalb Akr1c18 Ntf3	#000000	#445CFB	o
+Pvalb Calb1 Sst	#000000	#396BF9	o
+Pvalb Gabrg1	#000000	#3176F8	o
+Pvalb Gpr149 Islr	#000000	#2884F6	o
+Pvalb Reln Itm2a	#000000	#208EF4	o
+Pvalb Reln Tac1	#000000	#1898F2	o
+Pvalb Sema3e Kank4	#000000	#0EA5EF	o
+Pvalb Th Sst	#000000	#06AEED	o
+Pvalb Tpbg	#000000	#04B9EA	o
+Pvalb Vipr2	#000000	#0DC2E8	o
+Serpinf1 Aqp5 Vip	#000000	#17CBE4	o
+Serpinf1 Clrn1	#000000	#1FD3E1	o
+Sncg Gpr50	#000000	#27DADE	o
+Sncg Slc17a8	#000000	#30E1DA	o
+Sncg Vip Itih5	#000000	#38E7D7	o
+Sncg Vip Nptx2	#000000	#42EDD3	o
+Sst Calb2 Necab1	#000000	#4AF2CF	o
+Sst Calb2 Pdlim5	#000000	#52F5CB	o
+Sst Chodl	#000000	#5DF9C7	o
+Sst Chrna2 Glra3	#000000	#64FBC3	o
+Sst Chrna2 Ptgdr	#000000	#6EFEBE	o
+Sst Crh 4930553C11Rik 	#000000	#76FFB9	o
+Sst Crhr2 Efemp1	#000000	#80FFB4	o
+Sst Esm1	#000000	#88FFAF	o
+Sst Hpse Cbln4	#000000	#90FEAB	o
+Sst Hpse Sema3c	#000000	#9BFBA5	o
+Sst Mme Fam114a1	#000000	#A2F9A0	o
+Sst Myh8 Etv1 	#000000	#ACF59A	o
+Sst Myh8 Fibin	#000000	#B4F295	o
+Sst Nr2f2 Necab1	#000000	#BCED8F	o
+Sst Nts	#000000	#C6E789	o
+Sst Rxfp1 Eya1	#000000	#CEE184	o
+Sst Rxfp1 Prdm8	#000000	#D9DA7D	o
+Sst Tac1 Htr1d	#000000	#E0D377	o
+Sst Tac1 Tacr3	#000000	#E8CB72	o
+Sst Tac2 Myh4	#000000	#F2C26B	o
+Sst Tac2 Tacstd2	#000000	#FBB965	o
+Vip Arhgap36 Hmcn1	#000000	#FFAE5E	o
+Vip Chat Htr1f	#000000	#FFA558	o
+Vip Col15a1 Pde1a	#000000	#FF9850	o
+Vip Crispld2 Htr2c	#000000	#FF8E4A	o
+Vip Crispld2 Kcne4	#000000	#FF8444	o
+Vip Gpc3 Slc18a3	#000000	#FF763D	o
+Vip Igfbp4 Mab21l1	#000000	#FF6B37	o
+Vip Igfbp6 Car10	#000000	#FF5C2F	o
+Vip Lect1 Oxtr	#000000	#FF5029	o
+Vip Lmo1 Fam159b	#000000	#FF4422	o
+Vip Lmo1 Myl1	#000000	#FF351B	o
+Vip Ptprt Pkp2	#000000	#FF2914	o
+Vip Pygm C1ql1	#000000	#FF190D	o
+Vip Rspo1 Itga4	#000000	#FF0D06	o
+Vip Rspo4 Rxfp1 Chat	#000000	#FF0000	o

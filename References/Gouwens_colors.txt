@@ -1,0 +1,59 @@
+Lamp5 Fam19a1 Pax6	#8000FF
+Lamp5 Fam19a1 Tmem182	#780DFF
+Lamp5 Krt73	#7019FF
+Lamp5 Lhx6	#6629FE
+Lamp5 Lsp1	#5E35FE
+Lamp5 Ntn1 Npy2r	#5444FD
+Lamp5 Plch2 Dock5	#4C50FC
+Pvalb Akr1c18 Ntf3	#445CFB
+Pvalb Calb1 Sst	#396BF9
+Pvalb Gabrg1	#3176F8
+Pvalb Gpr149 Islr	#2884F6
+Pvalb Reln Itm2a	#208EF4
+Pvalb Reln Tac1	#1898F2
+Pvalb Sema3e Kank4	#0EA5EF
+Pvalb Th Sst	#06AEED
+Pvalb Tpbg	#04B9EA
+Pvalb Vipr2	#0DC2E8
+Serpinf1 Aqp5 Vip	#17CBE4
+Serpinf1 Clrn1	#1FD3E1
+Sncg Gpr50	#27DADE
+Sncg Slc17a8	#30E1DA
+Sncg Vip Itih5	#38E7D7
+Sncg Vip Nptx2	#42EDD3
+Sst Calb2 Necab1	#4AF2CF
+Sst Calb2 Pdlim5	#52F5CB
+Sst Chodl	#5DF9C7
+Sst Chrna2 Glra3	#64FBC3
+Sst Chrna2 Ptgdr	#6EFEBE
+Sst Crh 4930553C11Rik 	#76FFB9
+Sst Crhr2 Efemp1	#80FFB4
+Sst Esm1	#88FFAF
+Sst Hpse Cbln4	#90FEAB
+Sst Hpse Sema3c	#9BFBA5
+Sst Mme Fam114a1	#A2F9A0
+Sst Myh8 Etv1 	#ACF59A
+Sst Myh8 Fibin	#B4F295
+Sst Nr2f2 Necab1	#BCED8F
+Sst Nts	#C6E789
+Sst Rxfp1 Eya1	#CEE184
+Sst Rxfp1 Prdm8	#D9DA7D
+Sst Tac1 Htr1d	#E0D377
+Sst Tac1 Tacr3	#E8CB72
+Sst Tac2 Myh4	#F2C26B
+Sst Tac2 Tacstd2	#FBB965
+Vip Arhgap36 Hmcn1	#FFAE5E
+Vip Chat Htr1f	#FFA558
+Vip Col15a1 Pde1a	#FF9850
+Vip Crispld2 Htr2c	#FF8E4A
+Vip Crispld2 Kcne4	#FF8444
+Vip Gpc3 Slc18a3	#FF763D
+Vip Igfbp4 Mab21l1	#FF6B37
+Vip Igfbp6 Car10	#FF5C2F
+Vip Lect1 Oxtr	#FF5029
+Vip Lmo1 Fam159b	#FF4422
+Vip Lmo1 Myl1	#FF351B
+Vip Ptprt Pkp2	#FF2914
+Vip Pygm C1ql1	#FF190D
+Vip Rspo1 Itga4	#FF0D06
+Vip Rspo4 Rxfp1 Chat	#FF0000
