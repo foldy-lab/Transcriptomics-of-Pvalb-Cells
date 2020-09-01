@@ -1,3 +1,11 @@
+"""
+Original code by Dmitry Kobak and Philipp Berens
+Original code is located at: https://github.com/berenslab/rna-seq-tsne/blob/master/rnaseqTools.py
+
+This code was not altered or developed in any way by those working on this repository.
+It is merely located here, as a number of modules import it and need it to run.
+"""
+
 import numpy as np
 import pylab as plt
 import seaborn as sns
