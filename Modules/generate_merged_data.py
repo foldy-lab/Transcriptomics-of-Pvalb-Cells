@@ -35,7 +35,7 @@ def get_target_cell_labels(dataset, skip_types=[], level=0):
     
     return df_labels, cell_paths
 
-def get_kallisto_cell_data(cell, dataset, column, path):
+def get_kallisto_cell_data(cell, column, path):
     """
     read in kallisto values for a single cell
     return as a pandas series, or the column value
@@ -66,14 +66,14 @@ def add_gene_labels(df_kallisto):
     
     return
 
-def get_kallisto_dataframe(cells, dataset, column, cell_paths):
+def get_kallisto_dataframe(cells, column, cell_paths):
     """
     convert kallisto generated data into a pandas dataframe
     get cells from dataset, use column as the variable
     """
     
     # read in first cell to get list of isoform names
-    cell_data = get_kallisto_cell_data(cells[0], dataset, column, cell_paths[cells[0]])
+    cell_data = get_kallisto_cell_data(cells[0], column, cell_paths[cells[0]])
     
     # initialize an empty dataset
     # fill in value for first cell
@@ -82,7 +82,7 @@ def get_kallisto_dataframe(cells, dataset, column, cell_paths):
     
     # add in each cell's data
     for cell in cells[1:]:
-        df_kallisto.loc[:,cell] = get_kallisto_cell_data(cell, dataset, column, cell_paths[cell])
+        df_kallisto.loc[:,cell] = get_kallisto_cell_data(cell, column, cell_paths[cell])
     
     add_gene_labels(df_kallisto)
     
@@ -146,19 +146,13 @@ def generate_tpm_data(dataset, QC=True, skip_types=[], savename='', level=0, QC_
     savename = savename if len(savename) > 0 else dataset
     
     # read in data
-    df_iso = get_kallisto_dataframe(df_labels.index, dataset, 'tpm', cell_paths)
+    df_iso = get_kallisto_dataframe(df_labels.index, 'tpm', cell_paths)
     df_tpm = df_iso.groupby('GeneSymbol').sum()
     df_tpm.index.name = 'Gene'
     
-    df_count = get_kallisto_dataframe(df_labels.index, dataset, 'est_counts', cell_paths)
+    df_count = get_kallisto_dataframe(df_labels.index, 'est_counts', cell_paths)
     df_count = df_count.groupby('GeneSymbol').sum()
     df_count.index.name = 'Gene'
-    
-    # if doing quality control, save a copy of non-QC data
-    if QC:
-        df_count.to_csv('Datasets/%s-non_QC-count.tsv' % savename, sep='\t')
-        df_tpm.to_csv('Datasets/%s-non_QC-tpm.tsv' % savename, sep='\t')
-        df_labels.to_csv('Datasets/%s-non_QC-labels.tsv' % savename, sep='\t')
     
     # do QC if needed
     if QC:
@@ -179,8 +173,6 @@ def generate_tpm_data(dataset, QC=True, skip_types=[], savename='', level=0, QC_
     
     # save the data
     df_tpm.to_csv('Datasets/%s-tpm.tsv' % savename, sep='\t')
-    df_iso.to_csv('Datasets/%s-isoform.tsv' % savename, sep='\t')
-    df_count.to_csv('Datasets/%s-counts.tsv' % savename, sep='\t')
     df_labels.to_csv('Datasets/%s-labels.tsv' % savename, sep='\t')
     
     return
