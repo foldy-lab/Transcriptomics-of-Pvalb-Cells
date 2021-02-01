@@ -1,89 +1,89 @@
-Cell	Morph-PV-types	Soma-PV-types	MorphMarker-PV-types	MorphDirectional-PV-types	Mapping-PV-types	proMMT-PV-types	Ephys-PV-types	Gender-PV-types	Hemisphere-PV-types	Age
-O24	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Synpr	Ephys1	Female	Left	37
-O31	vBIC	Stratum Oriens	BIC	Vertical	Continent 2	Synpr	Ephys1	Female	Left	37
-O32	vBIC	Stratum Oriens	BIC	Vertical	Continent 2	Synpr	Ephys1	Female	Right	38
-O36	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.Snca	Ephys1	Female	Left	38
-O39	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.Snca	Ephys2	Female	Left	24
-O41	vAAC	Stratum Pyramidale	AAC	Vertical	Continent 2	Pthlh.2900055J20Rik.Npy	Ephys1	Female	Right	24
-O44	vBIC	Stratum Oriens	BIC	Vertical	Continent 2	Synpr	Ephys2	Female	Left	29
-O46	vBC	Stratum Oriens	BC	Vertical	Continent 2	Synpr	Ephys1	Female	Right	29
-O47	vBC	Stratum Oriens	BC	Vertical	Continent 2	Pthlh.Snca	Ephys1	Male	Left	30
-O48	vBC	Stratum Pyramidale	BC	Vertical	Continent 3	Pthlh.Snca	Ephys2	Male	Right	30
-O49	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys1	Male	Left	30
-O52	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys2	Female	Right	31
-O54	hBC	Stratum Oriens	BC	Horizontal	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys1	Female	Left	31
-O55	vBC	Stratum Pyramidale	BC	Vertical	Continent 3	Pthlh.2900055J20Rik.Pcp4	Ephys2	Female	Left	31
-O56	vBIC	Stratum Oriens	BIC	Vertical	Continent 2	Pthlh.2900055J20Rik.Npy	Ephys1	Female	Right	31
-O58	hBC	Stratum Oriens	BC	Horizontal	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys2	Female	Left	31
-O60	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys2	Male	Right	32
-O61	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Pthlh.2900055J20Rik.Npy	Ephys2	Male	Left	32
-O62	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.Snca	Ephys2	Male	Right	37
-O65	hBC	Stratum Oriens	BC	Horizontal	Continent 2	Synpr	Ephys1	Male	Right	37
-O66	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Synpr	Ephys1	Male	Left	46
-O71	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Synpr	Ephys1	Female	Right	47
-O73	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys2	Female	Right	47
-O76	vBIC	Stratum Oriens	BIC	Vertical	Continent 2	Pthlh.2900055J20Rik.Npy	Ephys1	Female	Right	47
-O78	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Synpr	Ephys1	Female	Right	58
-O80	vBC	Stratum Radiatum	BC	Vertical	Continent 3	Pthlh.Snca	Ephys2	Female	Right	58
-O87	vBIC	Stratum Pyramidale	BIC	Vertical	Continent 2	Synpr	Ephys1	Male	Right	64
-O89	vAAC	Stratum Pyramidale	AAC	Vertical	Continent 3	Pthlh.Snca	Ephys2	Male	Left	68
-O90	vBC	Stratum Pyramidale	BC	Vertical	Continent 3	Pthlh.Snca	Ephys2	Male	Left	68
-O100	vBC	Stratum Oriens	BC	Vertical	Continent 3	Pthlh.2900055J20Rik.Npy	Ephys1	Female	Left	77
-O102	hBC	Stratum Oriens	BC	Horizontal	Continent 2	Synpr	Ephys1	Male	Right	29
-O103	vBC	Stratum Pyramidale	BC	Vertical	Continent 3	Pthlh.Snca	Ephys1	Male	Left	29
-O104	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Synpr	Ephys2	Male	Right	29
-O106	hBC	Stratum Oriens	BC	Horizontal	Continent 2	Synpr	Ephys2	Male	Left	29
-O109	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.Snca	Ephys2	Male	Left	34
-O111	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.Snca	Ephys2	Male	Left	34
-O113	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys1	Male	Left	36
-O117	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys2	Male	Left	36
-O125	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Pthlh.Snca	Ephys1	Male	Right	46
-O127	vAAC	Stratum Pyramidale	AAC	Vertical	Continent 2	Pthlh.2900055J20Rik.Npy	Ephys1	Male	Right	46
-O128	vBC	Stratum Pyramidale	BC	Vertical	Continent 3	Pthlh.Snca	Ephys1	Male	Left	46
-O129	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.Snca	Ephys2	Male	Right	46
-O130	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.Snca	Ephys1	Male	Left	47
-O131	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys2	Male	Right	47
-O132	vAAC	Stratum Pyramidale	AAC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys2	Male	Right	48
-O134	vBIC	Stratum Oriens	BIC	Vertical	Continent 2	Synpr	Ephys1	Male	Right	48
-O135	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys2	Female	Left	26
-O137	vBC	Stratum Oriens	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys2	Female	Left	26
-O141	vBIC	Stratum Oriens	BIC	Vertical	Continent 2	Synpr	Ephys2	Female	Left	31
-O145	vBC	Stratum Oriens	BC	Vertical	Continent 2	Pthlh.Snca	Ephys2	Male	Left	24
-O147	vAAC	Stratum Pyramidale	AAC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys1	Male	Left	30
-O149	vAAC	Stratum Pyramidale	AAC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys1	Male	Left	30
-O151	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Synpr	Ephys1	Male	Right	30
-O159	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Synpr	Ephys2	Female	Left	22
-O160	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys1	Female	Right	22
-O162	hBC	Stratum Oriens	BC	Horizontal	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys2	Female	Right	22
-O164	vAAC	Stratum Pyramidale	AAC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4		Female	Right	23
-O165	vBIC	Stratum Oriens	BIC	Vertical	Continent 2	Pthlh.2900055J20Rik.Npy	Ephys2	Female	Right	23
-O171	vBC	Stratum Oriens	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys2	Female	Left	23
-O204	vBC	Stratum Pyramidale	BC	Vertical	Continent 2			Too Young	Right	11
-O205	hBC	Stratum Oriens	BC	Horizontal	Continent 2			Too Young	Right	12
-O210	vBC	Stratum Pyramidale	BC	Vertical	Continent 2			Too Young	Left	15
-O216	vBC	Stratum Pyramidale	BC	Vertical	Continent 2			Too Young	Right	16
-O222	vBC	Stratum Pyramidale	BC	Vertical	Continent 2			Too Young	Right	17
-O240	vBC	Stratum Pyramidale	BC	Vertical	Continent 2			Too Young	Left	10
-O242	vBC	Stratum Pyramidale	BC	Vertical	Continent 2			Too Young	Left	10
-O243	vBC	Stratum Pyramidale	BC	Vertical	Continent 2			Too Young	Right	10
-O248	hBC	Stratum Oriens	BC	Horizontal	Continent 2			Too Young	Left	11
-O250	vBC	Stratum Pyramidale	BC	Vertical	Continent 3			Too Young	Right	11
-O255	vBC	Stratum Pyramidale	BC	Vertical	Continent 2			Too Young	Left	20
-O284	vBC	Stratum Pyramidale	BC	Vertical	Continent 3			Too Young	Left	18
-O285	vBC	Stratum Pyramidale	BC	Vertical	Continent 2			Too Young	Left	18
-O286	vBC	Stratum Pyramidale	BC	Vertical	Continent 2			Too Young	Left	18
-O287	vBC	Stratum Pyramidale	BC	Vertical	Continent 2			Too Young	Left	18
-O290	vBC	Stratum Pyramidale	BC	Vertical	Continent 2			Too Young	Left	19
-O292	vBC	Stratum Pyramidale	BC	Vertical	Continent 2			Too Young	Left	19
-O296	vBC	Stratum Pyramidale	BC	Vertical	Continent 2			Too Young	Left	19
-O297	vBC	Stratum Pyramidale	BC	Vertical	Continent 2			Too Young	Right	19
-O299	vBC	Stratum Pyramidale	BC	Vertical	Continent 2			Too Young	Right	19
-O301	vBC	Stratum Pyramidale	BC	Vertical	Continent 2			Too Young	Left	19
-O427	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Pthlh.2900055J20Rik.Npy	Ephys1	Male	Right	24
-O430	vBC	Stratum Oriens	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys1	Male	Left	24
-O433	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys1	Male	Left	25
-O434	hBC	Stratum Oriens	BC	Horizontal	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys1	Male	Left	25
-O435	vBC	Stratum Oriens	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys1	Male	Left	25
-O439	hBC	Stratum Oriens	BC	Horizontal	Continent 2	Pthlh.2900055J20Rik.Pcp4	Ephys1	Male	Right	25
-O440	hBC	Stratum Oriens	BC	Horizontal	Continent 2	Pthlh.2900055J20Rik.Npy	Ephys1	Female	Left	26
-O454	vBC	Stratum Oriens	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Npy	Ephys1	Female	Right	27
+Cell	Morph-PV-types	Soma-PV-types	MorphMarker-PV-types	MorphDirectional-PV-types	Mapping-PV-types	proMMT-PV-types	Gender-PV-types	Hemisphere-PV-types	Age
+O24	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Synpr	Female	Left	37
+O31	vBIC	Stratum Oriens	BIC	Vertical	Continent 2	Synpr	Female	Left	37
+O32	vBIC	Stratum Oriens	BIC	Vertical	Continent 2	Synpr	Female	Right	38
+O36	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.Snca	Female	Left	38
+O39	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.Snca	Female	Left	24
+O41	vAAC	Stratum Pyramidale	AAC	Vertical	Continent 2	Pthlh.2900055J20Rik.Npy	Female	Right	24
+O44	vBIC	Stratum Oriens	BIC	Vertical	Continent 2	Synpr	Female	Left	29
+O46	vBC	Stratum Oriens	BC	Vertical	Continent 2	Synpr	Female	Right	29
+O47	vBC	Stratum Oriens	BC	Vertical	Continent 2	Pthlh.Snca	Male	Left	30
+O48	vBC	Stratum Pyramidale	BC	Vertical	Continent 3	Pthlh.Snca	Male	Right	30
+O49	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Male	Left	30
+O52	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Female	Right	31
+O54	hBC	Stratum Oriens	BC	Horizontal	Continent 2	Pthlh.2900055J20Rik.Pcp4	Female	Left	31
+O55	vBC	Stratum Pyramidale	BC	Vertical	Continent 3	Pthlh.2900055J20Rik.Pcp4	Female	Left	31
+O56	vBIC	Stratum Oriens	BIC	Vertical	Continent 2	Pthlh.2900055J20Rik.Npy	Female	Right	31
+O58	hBC	Stratum Oriens	BC	Horizontal	Continent 2	Pthlh.2900055J20Rik.Pcp4	Female	Left	31
+O60	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Male	Right	32
+O61	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Pthlh.2900055J20Rik.Npy	Male	Left	32
+O62	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.Snca	Male	Right	37
+O65	hBC	Stratum Oriens	BC	Horizontal	Continent 2	Synpr	Male	Right	37
+O66	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Synpr	Male	Left	46
+O71	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Synpr	Female	Right	47
+O73	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Female	Right	47
+O76	vBIC	Stratum Oriens	BIC	Vertical	Continent 2	Pthlh.2900055J20Rik.Npy	Female	Right	47
+O78	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Synpr	Female	Right	58
+O80	vBC	Stratum Radiatum	BC	Vertical	Continent 3	Pthlh.Snca	Female	Right	58
+O87	vBIC	Stratum Pyramidale	BIC	Vertical	Continent 2	Synpr	Male	Right	64
+O89	vAAC	Stratum Pyramidale	AAC	Vertical	Continent 3	Pthlh.Snca	Male	Left	68
+O90	vBC	Stratum Pyramidale	BC	Vertical	Continent 3	Pthlh.Snca	Male	Left	68
+O100	vBC	Stratum Oriens	BC	Vertical	Continent 3	Pthlh.2900055J20Rik.Npy	Female	Left	77
+O102	hBC	Stratum Oriens	BC	Horizontal	Continent 2	Synpr	Male	Right	29
+O103	vBC	Stratum Pyramidale	BC	Vertical	Continent 3	Pthlh.Snca	Male	Left	29
+O104	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Synpr	Male	Right	29
+O106	hBC	Stratum Oriens	BC	Horizontal	Continent 2	Synpr	Male	Left	29
+O109	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.Snca	Male	Left	34
+O111	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.Snca	Male	Left	34
+O113	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Male	Left	36
+O117	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Male	Left	36
+O125	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Pthlh.Snca	Male	Right	46
+O127	vAAC	Stratum Pyramidale	AAC	Vertical	Continent 2	Pthlh.2900055J20Rik.Npy	Male	Right	46
+O128	vBC	Stratum Pyramidale	BC	Vertical	Continent 3	Pthlh.Snca	Male	Left	46
+O129	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.Snca	Male	Right	46
+O130	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.Snca	Male	Left	47
+O131	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Male	Right	47
+O132	vAAC	Stratum Pyramidale	AAC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Male	Right	48
+O134	vBIC	Stratum Oriens	BIC	Vertical	Continent 2	Synpr	Male	Right	48
+O135	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Female	Left	26
+O137	vBC	Stratum Oriens	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Female	Left	26
+O141	vBIC	Stratum Oriens	BIC	Vertical	Continent 2	Synpr	Female	Left	31
+O145	vBC	Stratum Oriens	BC	Vertical	Continent 2	Pthlh.Snca	Male	Left	24
+O147	vAAC	Stratum Pyramidale	AAC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Male	Left	30
+O149	vAAC	Stratum Pyramidale	AAC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Male	Left	30
+O151	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Synpr	Male	Right	30
+O159	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Synpr	Female	Left	22
+O160	vBC	Stratum Pyramidale	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Female	Right	22
+O162	hBC	Stratum Oriens	BC	Horizontal	Continent 2	Pthlh.2900055J20Rik.Pcp4	Female	Right	22
+O164	vAAC	Stratum Pyramidale	AAC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Female	Right	23
+O165	vBIC	Stratum Oriens	BIC	Vertical	Continent 2	Pthlh.2900055J20Rik.Npy	Female	Right	23
+O171	vBC	Stratum Oriens	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Female	Left	23
+O204	vBC	Stratum Pyramidale	BC	Vertical	Continent 2		Too Young	Right	11
+O205	hBC	Stratum Oriens	BC	Horizontal	Continent 2		Too Young	Right	12
+O210	vBC	Stratum Pyramidale	BC	Vertical	Continent 2		Too Young	Left	15
+O216	vBC	Stratum Pyramidale	BC	Vertical	Continent 2		Too Young	Right	16
+O222	vBC	Stratum Pyramidale	BC	Vertical	Continent 2		Too Young	Right	17
+O240	vBC	Stratum Pyramidale	BC	Vertical	Continent 2		Too Young	Left	10
+O242	vBC	Stratum Pyramidale	BC	Vertical	Continent 2		Too Young	Left	10
+O243	vBC	Stratum Pyramidale	BC	Vertical	Continent 2		Too Young	Right	10
+O248	hBC	Stratum Oriens	BC	Horizontal	Continent 2		Too Young	Left	11
+O250	vBC	Stratum Pyramidale	BC	Vertical	Continent 3		Too Young	Right	11
+O255	vBC	Stratum Pyramidale	BC	Vertical	Continent 2		Too Young	Left	20
+O284	vBC	Stratum Pyramidale	BC	Vertical	Continent 3		Too Young	Left	18
+O285	vBC	Stratum Pyramidale	BC	Vertical	Continent 2		Too Young	Left	18
+O286	vBC	Stratum Pyramidale	BC	Vertical	Continent 2		Too Young	Left	18
+O287	vBC	Stratum Pyramidale	BC	Vertical	Continent 2		Too Young	Left	18
+O290	vBC	Stratum Pyramidale	BC	Vertical	Continent 2		Too Young	Left	19
+O292	vBC	Stratum Pyramidale	BC	Vertical	Continent 2		Too Young	Left	19
+O296	vBC	Stratum Pyramidale	BC	Vertical	Continent 2		Too Young	Left	19
+O297	vBC	Stratum Pyramidale	BC	Vertical	Continent 2		Too Young	Right	19
+O299	vBC	Stratum Pyramidale	BC	Vertical	Continent 2		Too Young	Right	19
+O301	vBC	Stratum Pyramidale	BC	Vertical	Continent 2		Too Young	Left	19
+O427	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Pthlh.2900055J20Rik.Npy	Male	Right	24
+O430	vBC	Stratum Oriens	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Male	Left	24
+O433	hBIC	Stratum Oriens	BIC	Horizontal	Continent 2	Pthlh.2900055J20Rik.Pcp4	Male	Left	25
+O434	hBC	Stratum Oriens	BC	Horizontal	Continent 2	Pthlh.2900055J20Rik.Pcp4	Male	Left	25
+O435	vBC	Stratum Oriens	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Pcp4	Male	Left	25
+O439	hBC	Stratum Oriens	BC	Horizontal	Continent 2	Pthlh.2900055J20Rik.Pcp4	Male	Right	25
+O440	hBC	Stratum Oriens	BC	Horizontal	Continent 2	Pthlh.2900055J20Rik.Npy	Female	Left	26
+O454	vBC	Stratum Oriens	BC	Vertical	Continent 2	Pthlh.2900055J20Rik.Npy	Female	Right	27
